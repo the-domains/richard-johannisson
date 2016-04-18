@@ -1,0 +1,28 @@
+name: Richard Johannisson
+favicon: null
+layout_spectrum: 0.31346728024072945
+typography_spectrum: 0.9093945999629796
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.4476199154742062
+  lightness: 0.7770712985657156
+  saturation: 0.6788739594630897
+  rhythmicContrast: 0.12314996868371964
+purpose: []
